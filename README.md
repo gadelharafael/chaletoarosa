@@ -16,9 +16,9 @@ Edite `index.html` e procure por:
 - `--:--` → horários de check-in e check-out
 - Coordenadas da pousada (`"resort": {"lat": ..., "lon": ...}` e links `-14.1962...,-47.8491...`) e as distâncias/pinos dos mapas, que ainda são do ponto de partida original
 - Textos das páginas *O chalé*, *Regras*, *Importante* e *FAQ* (estão genéricos)
-- URL do site em `og:url` / `canonical` (`chalestoarosa.github.io`)
+- URL do site em `og:url` / `canonical` (`gadelharafael.github.io/chaletoarosa`)
 
 Conteúdo regional (cachoeiras, trilhas, restaurantes, clima, hospitais) foi mantido: a região é a mesma, Vila de São Jorge.
 
 ## Publicar no GitHub Pages
-Crie um repositório novo (ex.: `chalestoarosa.github.io`), envie estes arquivos e ative Pages na branch `main`.
+Crie um repositório novo (ex.: `gadelharafael.github.io/chaletoarosa`), envie estes arquivos e ative Pages na branch `main`.
